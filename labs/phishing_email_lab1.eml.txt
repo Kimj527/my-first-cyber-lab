@@ -1,0 +1,18 @@
+From: IT Helpdesk <it-support@micros0ft-support.com>
+To: john.kim@example.com
+Subject: Urgent Password Reset Required
+
+Dear Employee,
+
+We detected a login attempt from an unrecognized device.
+
+Please verify your identity immediately by clicking the link below:
+http://secure-reset-password.support-portal.info
+
+Failure to comply will result in account suspension.
+
+Thank you,
+IT Security Team
+
+X-Originating-IP: 92.34.56.78
+Received: from smtp.fakehosting.biz (smtp.fakehosting.biz. [92.34.56.78]) by mail.example.com
