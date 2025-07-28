@@ -1,0 +1,4 @@
+[2025-07-28 08:12:15] Alert: Suspicious file creation detected - C:\Users\John\Documents\invoice1.locked
+[2025-07-28 08:12:16] Alert: File renamed - C:\Users\John\Documents\resume.docx → resume.docx.locked
+[2025-07-28 08:12:18] Alert: Outbound connection to 45.77.88.22:4444
+[2025-07-28 08:12:20] Alert: Process C:\Users\John\AppData\Roaming\fr34k3r.exe executed
