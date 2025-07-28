@@ -18,3 +18,18 @@ Detected multiple blocked attempts from internal host `192.168.1.15` to external
 
 ## Response Status:
 🟡 Ongoing investigation
+
+---
+
+## Findings:
+
+- WHOIS shows IP registered to [Asia Pacific Network Information Centre], located in [AU]
+- VirusTotal shows [2] detections
+- Behavior suggests brute-force attempts on SSH and RDP
+
+## Next Steps:
+
+- Block IP at perimeter firewall
+- Notify IT to isolate and scan host 192.168.1.15
+- Document findings in ticketing system
+- Monitor for additional outbound connections from that host
