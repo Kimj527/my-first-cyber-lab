@@ -1,0 +1,1 @@
+[2025-07-28 14:35:22] Firewall Alert: Blocked IP 123.45.67.89 on port 22
