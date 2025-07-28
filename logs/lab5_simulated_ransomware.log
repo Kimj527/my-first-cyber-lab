@@ -1,0 +1,5 @@
+[2025-07-28 18:38:52] ALERT: File encrypted - C:\Users\John\Desktop\GitHub\my-first-cyber-lab\simulations\ransomware_lab\invoice.txt.locked
+[2025-07-28 18:38:52] ALERT: File encrypted - C:\Users\John\Desktop\GitHub\my-first-cyber-lab\simulations\ransomware_lab\notes.txt.locked
+[2025-07-28 18:38:52] ALERT: File encrypted - C:\Users\John\Desktop\GitHub\my-first-cyber-lab\simulations\ransomware_lab\resume.txt.locked
+[2025-07-28 18:38:52] ALERT: Suspicious process executed - C:\Users\John\AppData\Roaming\fr34k3r.exe
+[2025-07-28 18:38:52] ALERT: Outbound connection to 45.77.88.22:4444
