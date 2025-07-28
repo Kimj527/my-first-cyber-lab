@@ -1,0 +1,20 @@
+# Playbook: Investigate Suspicious IP (123.45.67.89)
+
+## Summary:
+Detected multiple blocked attempts from internal host `192.168.1.15` to external IP `123.45.67.89` on ports 22 (SSH) and 3389 (RDP).
+
+## Steps:
+1. Review firewall logs to confirm repeated access attempts.
+2. Perform a WHOIS lookup on IP `123.45.67.89`
+3. Check VirusTotal for malicious reputation
+4. Identify internal device (192.168.1.15) owner
+5. Scan internal device for malware or unauthorized tools
+6. Escalate to Tier 2 if persistence or lateral movement is suspected
+
+## Indicators of Compromise (IOCs):
+- External IP: `123.45.67.89`
+- Targeted Ports: 22 (SSH), 3389 (RDP)
+- Internal Source: `192.168.1.15`
+
+## Response Status:
+🟡 Ongoing investigation
